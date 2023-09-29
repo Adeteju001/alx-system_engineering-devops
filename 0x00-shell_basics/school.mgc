@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -rlIe '^SCHOOL' --include="*.dat"
+0 string SCHOOL
